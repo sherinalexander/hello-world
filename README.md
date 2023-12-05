@@ -1,6 +1,5 @@
 **Meet Sherin**
 
-## Introduction
 
 Hello! I'm Sherin, a passionate individual who finds joy in the simplicity of life . While my dream was originally to become a journalist, life took me on an adventure in computer science engineering (CSE).
 
